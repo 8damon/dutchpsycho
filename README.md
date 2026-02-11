@@ -13,5 +13,5 @@
 
 ---
 
-![Languages](https://raw.githubusercontent.com/dutchpsycho/dutchpsycho/generated/metrics.languages.svg)
-![Metrics](https://raw.githubusercontent.com/dutchpsycho/dutchpsycho/generated/metrics.svg)
+![Languages](https://raw.githubusercontent.com/8damon/dutchpsycho/generated/metrics.languages.svg)
+![Metrics](https://raw.githubusercontent.com/8damon/dutchpsycho/generated/metrics.svg)
